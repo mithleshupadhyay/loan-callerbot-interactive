@@ -1,0 +1,8 @@
+flask
+pinecone-client
+openai
+twilio
+python-dotenv
+requests
+numpy
+ngrok
